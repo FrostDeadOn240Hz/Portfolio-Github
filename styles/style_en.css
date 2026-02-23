@@ -60,6 +60,7 @@ header {
     font-family: 'Kanit', sans-serif;
     font-weight: 800;
     font-style: italic;
+    text-decoration: none;
     text-transform: uppercase;
     background: linear-gradient(to bottom, #FFF200 20%, #FF5500 100%);
     color: #121212;
@@ -364,4 +365,5 @@ aside {
 
 .galerie_conteneur img:nth-child(odd):hover {
     box-shadow: 10px 10px 20px rgb(0, 0, 0);
+
 }
